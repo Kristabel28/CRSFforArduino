@@ -6,6 +6,8 @@
 [![Build Status](https://github.com/ZZ-Cat/CRSFforArduino/workflows/Arduino/badge.svg)](https://github.com/ZZ-Cat/CRSFforArduino/actions)
 [![Build Status](https://github.com/ZZ-Cat/CRSFforArduino/workflows/PlatformIO/badge.svg)](https://github.com/ZZ-Cat/CRSFforArduino/actions)
 
+HI I DO NOT KNOW WHAT I AM DOING
+
 ## Written & developed by
 
 Cassandra "ZZ Cat" Robinson
